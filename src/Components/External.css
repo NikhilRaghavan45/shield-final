@@ -1,0 +1,18 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    float: right;
+}
+
+
+.btn:hover{
+    background-color: rgb(115, 68, 119);
+    color: white;
+    font-size: medium;
+    font-weight: 400;
+}
+
+
+.cour{
+    display: grid;
+}

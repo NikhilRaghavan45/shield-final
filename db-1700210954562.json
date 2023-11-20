@@ -1,0 +1,520 @@
+{
+  "users": [
+    {
+      "fname": "nagaraj",
+      "lname": "r",
+      "num": "8610773842",
+      "email": "raja@123gmail.com",
+      "password": "Raja@1234",
+      "Rpassword": "Raja@12345",
+      "id": 2
+    },
+    {
+      "fname": "naga",
+      "lname": "raja",
+      "num": "8610773842",
+      "email": "raja@123gmail.com",
+      "password": "Raja@12345",
+      "Rpassword": "Raja@12345",
+      "id": 3
+    },
+    {
+      "fname": "venkatdesh",
+      "lname": "G",
+      "num": "7564783921",
+      "email": "yeswanthsrikanth132001@gmail.com",
+      "password": "vENKAT@123",
+      "Rpassword": "vENKAT@123",
+      "id": 4
+    },
+    {
+      "fname": "naga",
+      "lname": "raja",
+      "num": "8610773842",
+      "email": "raja@123gmail.com",
+      "password": "Raja@12345",
+      "Rpassword": "Raja@12345",
+      "id": 5
+    },
+    {
+      "fname": "venkatdesh",
+      "lname": "G",
+      "num": "7564783921",
+      "email": "raja@123gmail.com",
+      "password": "asd@123Q",
+      "Rpassword": "asd@123Q",
+      "id": 6
+    },
+    {
+      "fname": "naga",
+      "lname": "raja",
+      "num": "8610773842",
+      "email": "raja@123gmail.com",
+      "password": "Raja@12345",
+      "Rpassword": "Raja@12345",
+      "id": 7
+    },
+    {
+      "fname": "yeswanth",
+      "lname": "s",
+      "num": "7564783921",
+      "email": "yeswanth132001@gmail.com",
+      "password": "Yes@12345",
+      "Rpassword": "Yes@12345",
+      "id": 8
+    },
+    {
+      "fname": "venkat",
+      "lname": "raja",
+      "num": "9876543212",
+      "email": "rex@gmail.com",
+      "password": "As@123456",
+      "Rpassword": "As@123456",
+      "id": 9
+    },
+    {
+      "fname": "venkat",
+      "lname": "raja",
+      "num": "8610773842",
+      "email": "ven@123gmail.com",
+      "password": "Ven@12345",
+      "Rpassword": "Ven@12345",
+      "id": 10
+    },
+    {
+      "fname": "Nikhilraghvan",
+      "lname": "raghavan",
+      "num": "8608722325",
+      "email": "saainikhil@gmail.com",
+      "password": "Nikhil@123",
+      "Rpassword": "Nikhil@123",
+      "id": 11
+    },
+    {
+      "fname": "nikhil raghvan",
+      "lname": "raghavan",
+      "num": "8608722325",
+      "email": "saainikhil@gmail.com",
+      "password": "Nikhil@123",
+      "Rpassword": "Nikhil@123",
+      "id": 12
+    }
+  ],
+  "product": [
+    {
+      "productName": "Saree",
+      "availability": "Available",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "productName": "Lehenga",
+      "availability": "Availalable"
+    },
+    {
+      "id": 3,
+      "productName": "Pants",
+      "availability": "Availalable"
+    },
+    {
+      "id": 4,
+      "productName": "Tops",
+      "availability": "Availalable"
+    },
+    {
+      "productName": "",
+      "availability": "",
+      "id": 5
+    }
+  ],
+  "saree": [
+    {
+      "id": 1,
+      "name": "Flip Saree",
+      "price": "695"
+    },
+    {
+      "id": 2,
+      "name": "Cotton Saree",
+      "price": 459
+    },
+    {
+      "id": 3,
+      "name": "Self Design Net Saree",
+      "price": 599
+    },
+    {
+      "id": 4,
+      "name": "Kanji Pattu",
+      "price": 1009
+    },
+    {
+      "id": 5,
+      "name": "Banaras Pattu",
+      "price": 989
+    },
+    {
+      "id": 6,
+      "name": "Net Saree",
+      "price": 599
+    },
+    {
+      "id": 7,
+      "name": "Half Saree",
+      "price": 699
+    },
+    {
+      "id": 8,
+      "name": "Aarani Pattu",
+      "price": 999
+    },
+    {
+      "id": 9,
+      "name": "Design Net Saree",
+      "price": 799
+    },
+    {
+      "id": 10,
+      "name": "Net Saree",
+      "price": 399
+    },
+    {
+      "id": 11,
+      "name": "Silk Saree",
+      "price": 799
+    },
+    {
+      "id": 12,
+      "name": "Pattu",
+      "price": 599
+    },
+    {
+      "id": 13,
+      "name": "Polyster Saree",
+      "price": 799
+    },
+    {
+      "id": 14,
+      "name": "Self Design Net Saree",
+      "price": 875
+    },
+    {
+      "id": 15,
+      "name": "Flip Saree",
+      "price": 795
+    },
+    {
+      "id": 16,
+      "name": "Self Design Net Saree",
+      "price": 599
+    },
+    {
+      "id": 17,
+      "name": " Self Design Saree",
+      "price": 799
+    },
+    {
+      "name": "reyqrwt",
+      "price": "4654",
+      "id": 18
+    }
+  ],
+  "lehenga": [
+    {
+      "id": 1,
+      "name": "Printed Semi Stitched Lehenga Choli  (Dark Green)",
+      "price": "695"
+    },
+    {
+      "id": 2,
+      "name": "Floral Print Semi Stitched Lehenga Choli  (Green)",
+      "price": 459
+    },
+    {
+      "id": 3,
+      "name": "Embroidered Semi Stitched Lehenga Choli  (Blue)",
+      "price": 599
+    },
+    {
+      "id": 4,
+      "name": "Embroidered Semi Stitched Lehenga Choli  (Red)",
+      "price": 1009
+    },
+    {
+      "id": 5,
+      "name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+      "price": 989
+    },
+    {
+      "id": 6,
+      "name": "Embroidered Semi Stitched Lehenga Choli  (Black)",
+      "price": 599
+    },
+    {
+      "id": 7,
+      "name": "Embroidered Semi Stitched Lehenga Choli  (Green)",
+      "price": 699
+    },
+    {
+      "id": 8,
+      "name": " Stitched Lehenga Choli",
+      "price": 999
+    },
+    {
+      "id": 9,
+      "name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+      "price": 799
+    },
+    {
+      "id": 10,
+      "name": "Design Net Saree",
+      "price": 399
+    },
+    {
+      "id": 11,
+      "name": " Embroidered Semi Stitched Lehenga Choli  (Gold)",
+      "price": 799
+    },
+    {
+      "id": 12,
+      "name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+      "price": 599
+    },
+    {
+      "id": 13,
+      "name": "Lehenga Choli  (Grey)",
+      "price": 499
+    },
+    {
+      "id": 14,
+      "name": "Embroidered Semi Stitched Lehenga Choli  (Grey)",
+      "price": 499
+    },
+    {
+      "id": 15,
+      "name": "Semi Stitched Lehenga Choli  (green)",
+      "price": 699
+    }
+  ],
+  "tops": [
+    {
+      "id": 1,
+      "name": "Women Solid Round Black T-Shirt",
+      "price": "695"
+    },
+    {
+      "id": 2,
+      "name": "Women Printed Round Beige T-Shirt",
+      "price": 459
+    },
+    {
+      "id": 3,
+      "name": "Women Printed  Black T-Shirt",
+      "price": 599
+    },
+    {
+      "id": 4,
+      "name": "Women Printed Round  T-Shirt",
+      "price": 1009
+    },
+    {
+      "id": 5,
+      "name": "Women Solid V Neck Green T-Shirt",
+      "price": 989
+    },
+    {
+      "id": 6,
+      "name": "Women Printed  Black T-Shirt",
+      "price": 699
+    },
+    {
+      "id": 7,
+      "name": " Women Graph Grey T-Shirt",
+      "price": 499
+    },
+    {
+      "id": 8,
+      "name": " Women Checkered Round Neck Pure Cotton Black T-Shirt",
+      "price": 599
+    },
+    {
+      "id": 9,
+      "name": "Pack of 2 Women Solid High Neck Cotton Blend Multicolor T-Shirt",
+      "price": 699
+    },
+    {
+      "id": 10,
+      "name": "Pure Cotton Black, Pink T-Shirt",
+      "price": 499
+    },
+    {
+      "id": 11,
+      "name": " Women Typography  Blend Black T-Shirt",
+      "price": 399
+    },
+    {
+      "id": 12,
+      "name": "Neck Cotton Blend Black T-Shirt",
+      "price": 749
+    },
+    {
+      "id": 13,
+      "name": "Women Printed Round  Blend Yellow T-Shirt",
+      "price": 789
+    },
+    {
+      "id": 14,
+      "name": "Pack of 2 Women Solid Round Neck",
+      "price": 399
+    },
+    {
+      "id": 15,
+      "name": "Women Colorblock Multicolor T-Shirt",
+      "price": 499
+    },
+    {
+      "id": 16,
+      "name": "Neck Cotton Blend Purple T-Shirt",
+      "price": 799
+    },
+    {
+      "id": 17,
+      "name": "Women Graphic Print Hooded",
+      "price": 209
+    },
+    {
+      "id": 18,
+      "name": " Round Neck Pure Cotton Green T-Shirt",
+      "price": 399
+    },
+    {
+      "id": 19,
+      "name": " Cotton Blend Light Blue T-Shirt",
+      "price": 699
+    },
+    {
+      "id": 20,
+      "name": "Pack of 2 Women Graphic ",
+      "price": 599
+    },
+    {
+      "productName": "",
+      "availability": "",
+      "name": "gokul tops",
+      "price": "212",
+      "id": 21
+    }
+  ],
+  "pants": [
+    {
+      "id": 1,
+      "name": "Women Regular Low Rise Blue Jeans",
+      "price": "795"
+    },
+    {
+      "id": 2,
+      "name": " Women Regular High Rise Black Jeans",
+      "price": 459
+    },
+    {
+      "id": 3,
+      "name": "Women Boyfriend Mid Rise Blue Jeans",
+      "price": 599
+    },
+    {
+      "id": 4,
+      "name": "Women Boyfriend High Rise Blue Jeans",
+      "price": 10099
+    },
+    {
+      "id": 5,
+      "name": " Western Wear Legging  (Dark Blue, Solid)",
+      "price": 569
+    },
+    {
+      "id": 6,
+      "name": "NYMEX Ankle Length Western Wear Legging(Blue, Solid)U",
+      "price": 989
+    },
+    {
+      "id": 7,
+      "name": " Misaina Ankle Wear Legging(Black, Solid)",
+      "price": 599
+    },
+    {
+      "id": 8,
+      "name": "Churidar Wear Legging(Multicolor, Solid)",
+      "price": 699
+    },
+    {
+      "id": 9,
+      "name": "Women Solid Maroon Track Pants",
+      "price": 999
+    },
+    {
+      "id": 10,
+      "name": "Women Solid Black Track Pants",
+      "price": 799
+    },
+    {
+      "id": 11,
+      "name": " Combo-Pack of 5 Legging (Multicolor, Solid)",
+      "price": 399
+    },
+    {
+      "id": 12,
+      "name": "Pack of 2 Orange, Green Track Pants",
+      "price": 799
+    },
+    {
+      "id": 13,
+      "name": "Amorlys ChuridarWear Legging(Orange, Solid)",
+      "price": 799
+    },
+    {
+      "id": 14,
+      "name": "Women Solid Grey Track Pants",
+      "price": 399
+    },
+    {
+      "id": 15,
+      "name": "Women Regular Mid Rise Black Jeans",
+      "price": 599
+    },
+    {
+      "id": 16,
+      "name": "Women Regular High Rise Black Jeans",
+      "price": 499
+    },
+    {
+      "id": 17,
+      "name": " Ankle Legging(White, Black, Beige, Solid)",
+      "price": 899
+    },
+    {
+      "id": 18,
+      "name": "Women Solid Grey Track Pants",
+      "price": 977
+    },
+    {
+      "id": 19,
+      "name": "Women Skinny White Jeans (Orange, Solid)",
+      "price": 459
+    },
+    {
+      "id": 20,
+      "name": "Women Printed Dark Green Track Pants",
+      "price": 579
+    },
+    {
+      "name": "leggins",
+      "price": "499",
+      "id": 21
+    },
+    {
+      "name": "ASDFG",
+      "price": "12344",
+      "id": 23
+    }
+  ]
+}

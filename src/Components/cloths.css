@@ -1,0 +1,55 @@
+/* Login.css */
+.backgroundcontainer {
+  background-image: url('https://i2.wp.com/supersaravanastores.com/wp-content/uploads/2017/05/3-1.jpg?fit=1425%2C445&ssl=1');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+/* lehenga.css */
+.lehengabg {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFpsPDkE6ZJl8mGaL0N7dFOp4DniEXWLpP_YsosLNl8svLm-GubjJD3zc62KnNe2lmG8&usqp=CAU');
+  /* You can adjust these properties to control how the background image is displayed */
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+/* pant.css */
+
+.pantsbg {
+  background-image: url('https://www.nctruckanddiesel.com/wp-content/uploads/black-metal-background.jpg');
+   
+  background-size: cover;
+  background-position: center;
+} 
+
+
+/* top.css */
+
+.topbg {
+  background-image: url('https://as2.ftcdn.net/v2/jpg/03/50/11/55/1000_F_350115510_RaLWhgjKXUfasolqkA1LSUI58PmMe5Nv.jpg');
+
+  background-size: cover;
+  background-position: center;
+} 
+
+/* saree.css */
+.backgroundphoto {
+  background-image: url('https://img.freepik.com/premium-photo/orange-background-with-floral-design_895799-5495.jpg');
+ 
+  background-size: cover;
+  background-position: center;
+}
+
+/* signiup.css */
+
+.background-container {
+  background-image: url('../Shared/Images/login.jpg');
+  /* You can adjust these properties to control how the background image is displayed */
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Set a height for the container to cover the full viewport height */
+}
+
