@@ -8,7 +8,7 @@ import '/node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 
 const ContactComp = () => {
-    const[formData,setFormData]=useState({
+    const [formData, setFormData] = useState({
         fname: '',
         email: '',
         contact: '',
@@ -18,28 +18,28 @@ const ContactComp = () => {
     const handleChange = (e) => {
         const { name, value } = e.target;
         setFormData({
-          ...formData,
-          [name]: value,
+            ...formData,
+            [name]: value,
         });
-      };
+    };
 
     const handleSubmit = async (e) => {
         e.preventDefault();
-    
-        
-          try {
-            
+
+
+        try {
+
             const response = await axios.post('http://localhost:3001/contacts', formData);
-    
+
             console.log('User created:', response.data);
             window.alert('Message Send Successfull')
-   
-         
-          } catch (error) {
+
+
+        } catch (error) {
             console.error('Error creating user:', error);
-          }
         }
-      
+    }
+
 
 
     return (
@@ -51,34 +51,36 @@ const ContactComp = () => {
                     <div className="col-6">
                         <form className="my-form" onSubmit={handleSubmit}>
                             <div class="form-group ">
-                                <label for="fname">Name</label>
-                                <input type='text' name='fname' className='form-control' placeholder='Enter full name' 
-                       onChange={handleChange}/>
+                                <label for="fname"><b>Name</b></label>
+                                <input type='text' name='fname' className='form-control' placeholder='Enter full name'
+                                    onChange={handleChange} />
                             </div>
-                                          
+
 
                             <div class="form-group mt-3">
-                                <label for="email ">Email Address</label>
-                                <input type='text' name='email' className='form-control' placeholder='Enter email' 
-                        onChange={handleChange}/>
+                                <label for="email "><b>Email Address</b></label>
+                                <input type='email'
+                                    pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$"
+                                    name='email' className='form-control' placeholder='Enter email'
+                                    onChange={handleChange} />
                             </div>
-                           
+
 
                             <div class="form-group mt-3">
-                                <label for="tel">Contact</label>
-                                <input type="tel" className="form-control" name='contact' pattern="[789][0-9]{9}" 
-                               onChange={handleChange} placeholder="contact" />
+                                <label for="tel"><b>Contact</b></label>
+                                <input type="tel" className="form-control" name='contact' pattern="[789][0-9]{9}"
+                                    onChange={handleChange} placeholder="contact" />
                             </div>
-                           
+
 
                             <div class="form-group mt-3">
-                                <label for="form-message" >Email your Message</label>
-                                <textarea class="form-control" id="form-message" name='message' 
-                                onChange={handleChange} placeholder="message"></textarea>
+                                <label for="form-message" ><b>Email your Message</b></label>
+                                <textarea class="form-control" id="form-message" name='message'
+                                    onChange={handleChange} placeholder="message"></textarea>
                             </div>
-                    
 
-                            <button class="btn btn-info" type="submit"  style={{ marginTop: 20 }}>Contact Us</button>
+
+                            <button class="btn btn-info" type="submit" style={{ marginTop: 20 }}>Contact Us</button>
                         </form>
                     </div>
                     <div className='col-6'>

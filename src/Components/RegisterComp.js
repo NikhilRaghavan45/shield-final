@@ -132,6 +132,8 @@ const SignInPage = () => {
                   className="form-control border-danger"
                   id="email"
                   name='email'
+
+                  pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$"
                   value={formData.email} onChange={handleChange}
                   required
                 />  {errors.email && <p style={{ color: 'red' }}>{errors.email}</p>}

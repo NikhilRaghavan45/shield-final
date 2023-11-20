@@ -1,11 +1,11 @@
-ul{
+ul {
     list-style-type: none;
     display: flex;
     float: right;
 }
 
 
-.btn:hover{
+.btn1:hover {
     background-color: rgb(115, 68, 119);
     color: white;
     font-size: medium;
@@ -13,6 +13,6 @@ ul{
 }
 
 
-.cour{
+.cour {
     display: grid;
 }

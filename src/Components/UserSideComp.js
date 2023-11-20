@@ -9,7 +9,7 @@ const UserSideComp = ({ isSidebarVisible, hideNav }) => {
   return (
     <div className="container-fluid">
       <div className="row">
-        <nav id="sidebar" className={`bg-white ${isSidebarVisible ? "force-visible" : ""}` } style={{ width: '200px' }}>
+        <nav id="sidebar" className={`bg-white ${isSidebarVisible ? "force-visible" : ""}`} style={{ width: '200px' }}>
           <div className="position-sticky">
             <div className="d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white">
               <ul className="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">

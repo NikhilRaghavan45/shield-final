@@ -5,7 +5,7 @@
       "lname": "r",
       "num": "8610773842",
       "email": "raja@123gmail.com",
-      "password": "Raja@1234",
+      "password": "Raja@12345",
       "Rpassword": "Raja@12345",
       "id": 2
     },
@@ -145,15 +145,6 @@
       "id": 17
     },
     {
-      "fname": "nikhil raghvan",
-      "lname": "raghavan",
-      "num": "8608722325",
-      "email": "4315@gmail.com",
-      "password": "Nikhil@123",
-      "Rpassword": "Nikhil@123",
-      "id": 18
-    },
-    {
       "fname": "nikhil",
       "lname": "raghavan",
       "num": "8768768765",
@@ -206,6 +197,33 @@
       "password": "Nikhil@123",
       "Rpassword": "Nikhil@123",
       "id": 24
+    },
+    {
+      "fname": "Venk",
+      "lname": "adesh",
+      "num": "9857236545",
+      "email": "Venkay@gmail.com",
+      "password": "Venkadesh@54",
+      "Rpassword": "Venkadesh@54",
+      "id": 29
+    },
+    {
+      "fname": "nikhilN",
+      "lname": "r",
+      "num": "8608722325",
+      "email": "saainikhil@gmail",
+      "password": "Raja@123",
+      "Rpassword": "Raja@123",
+      "id": 31
+    },
+    {
+      "fname": "yeswanth",
+      "lname": "s",
+      "num": "8608722325",
+      "email": "yeswanth@gmail.com",
+      "password": "Yes@12345",
+      "Rpassword": "Yes@12345",
+      "id": 32
     }
   ],
   "product": [
@@ -713,19 +731,42 @@
       "contact": "7969869697",
       "message": "hii",
       "id": 6
+    },
+    {
+      "fname": "venkadesh",
+      "email": "132232@2323.com",
+      "contact": "9316476435",
+      "message": "gfvf vfbgdbggh",
+      "id": 7
+    },
+    {
+      "fname": "venkadesh",
+      "email": "123234455@134243.com",
+      "contact": "9983486424",
+      "message": "fgfdbhdnhgxfgf",
+      "id": 8
+    },
+    {
+      "fname": "venkadesh",
+      "email": "123234455@134243.com",
+      "contact": "9983486424",
+      "message": "fgfdbhdnhgxfgf",
+      "id": 9
+    },
+    {
+      "fname": "v",
+      "email": "123234455@134243.com",
+      "contact": "9983486424",
+      "message": "fgfdbhdnhgxfgf",
+      "id": 10
     }
   ],
   "cart": [
     {
-      "id": 20,
-      "name": "Women Printed Dark Green Track Pants",
-      "price": 579
-    },
-    {
-      "productId": 2,
-      "name": "Cotton Saree",
-      "price": 459,
-      "id": 21
+      "productId": 1,
+      "name": "Flip Saree",
+      "price": "695",
+      "id": 1
     }
   ],
   "subscriptions": [
@@ -736,6 +777,10 @@
     {
       "email": "nikhil@gmail.com",
       "id": 2
+    },
+    {
+      "email": "hsfdgadfgafd@afaf.com",
+      "id": 3
     }
   ],
   "admin": [

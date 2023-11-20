@@ -37,22 +37,22 @@ class NavComp extends Component {
             </div>
             <div>
               <ul className="mb-0 links">
-                <Link to="HomeComp" className="btn">
+                <Link to="HomeComp" className="btn btn1">
                   Home
                 </Link>
-                <Link to="MenuComp" className="btn">
+                <Link to="MenuComp" className="btn btn1">
                   Menu
                 </Link>
-                <Link to="AboutComp" className="btn">
+                <Link to="AboutComp" className="btn btn1">
                   About
                 </Link>
-                <Link to="ContactComp" className="btn">
+                <Link to="ContactComp" className="btn btn1">
                   Contacts
                 </Link>
                 <li className="dropdown">
                   <Link
                     to="#"
-                    className="btn dropdown-toggle"
+                    className="btn btn1 dropdown-toggle"
                     id="navbarDropdown"
                     role="button"
                     data-bs-toggle="dropdown"
@@ -62,7 +62,7 @@ class NavComp extends Component {
                     My Account
                   </Link>
                   <div
-                    className="dropdown-menu"
+                    className="dropdown-menu btn1"
                     aria-labelledby="navbarDropdown"
                   >
                     <Link to="LoginComp" className="dropdown-item">
@@ -73,7 +73,7 @@ class NavComp extends Component {
                     </Link>
                   </div>
                 </li>
-                <Link to="cart" className="btn">
+                <Link to="cart" className="btn btn1">
                   Cart
                 </Link>
               </ul>
